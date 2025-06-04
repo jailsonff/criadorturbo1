@@ -39,5 +39,36 @@
       "1": 1
     },
     "mensagem": "Todos os 3 comentários foram postados com sucesso!"
+  },
+  {
+    "id": "1749077940747",
+    "link": "https://www.instagram.com/p/DKao971OUq-/",
+    "comentarios": [
+      "dddd"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "status": "concluido",
+    "data_criacao": "2025-06-04T22:59:00.747Z",
+    "data_processamento": "2025-06-04T20:01:52.666049",
+    "comentarios_processados": 1,
+    "total_comentarios": 1,
+    "mensagem": "Todos os 1 comentários foram postados com sucesso!"
+  },
+  {
+    "id": "1749078268878",
+    "link": "https://www.instagram.com/p/DKao2GjOUNk/",
+    "comentarios": [
+      "top",
+      "top"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "status": "concluido",
+    "data_criacao": "2025-06-04T23:04:28.878Z",
+    "data_processamento": "2025-06-04T20:06:08.889861",
+    "comentarios_processados": 2,
+    "total_comentarios": 2,
+    "mensagem": "Todos os 2 comentários foram postados com sucesso!"
   }
 ]

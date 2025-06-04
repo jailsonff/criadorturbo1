@@ -10165,3 +10165,879 @@ Stacktrace:
 2025-06-04 15:56:10,308 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
 2025-06-04 15:56:20,308 - BotProcessor - INFO - Carregados 63 usuários do Instagram
 2025-06-04 15:56:20,309 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 19:58:42,993 - BotProcessor - INFO - Iniciando Bot Processor...
+2025-06-04 19:58:42,994 - BotProcessor - INFO - Iniciando Bot Processor
+2025-06-04 19:58:42,994 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 19:58:42,995 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando...
+2025-06-04 19:58:52,997 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 19:58:52,997 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 19:59:02,996 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 19:59:02,997 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 19:59:02,997 - BotProcessor - INFO - Processando pedido: 1749077940747 - Detalhes: Comentários total: 1, Já processados: 0, Status: pendente
+2025-06-04 19:59:02,997 - BotProcessor - INFO - Inicializando controle de progresso para pedido 1749077940747: 1 comentários
+2025-06-04 19:59:02,998 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747
+2025-06-04 19:59:02,998 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747 com usuário douglas.brunog
+2025-06-04 19:59:02,999 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 19:59:13,000 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 19:59:13,000 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 19:59:13,000 - BotProcessor - INFO - Processando pedido: 1749077940747 - Detalhes: Comentários total: 1, Já processados: 0, Status: processando
+2025-06-04 19:59:13,001 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747
+2025-06-04 19:59:13,001 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747 com usuário caleberyangomes
+2025-06-04 19:59:13,001 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 19:59:23,002 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 19:59:23,002 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 19:59:23,002 - BotProcessor - INFO - Processando pedido: 1749077940747 - Detalhes: Comentários total: 1, Já processados: 0, Status: processando
+2025-06-04 19:59:23,003 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747
+2025-06-04 19:59:23,003 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747 com usuário joedson.dison
+2025-06-04 19:59:23,003 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 19:59:33,004 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 19:59:33,004 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 19:59:33,005 - BotProcessor - INFO - Processando pedido: 1749077940747 - Detalhes: Comentários total: 1, Já processados: 0, Status: processando
+2025-06-04 19:59:33,005 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747
+2025-06-04 19:59:33,005 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747 com usuário matheuscl_91
+2025-06-04 19:59:33,005 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 19:59:43,009 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 19:59:43,013 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 19:59:43,013 - BotProcessor - INFO - Processando pedido: 1749077940747 - Detalhes: Comentários total: 1, Já processados: 0, Status: processando
+2025-06-04 19:59:43,014 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747
+2025-06-04 19:59:43,014 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747 com usuário rafaelcosilvrp
+2025-06-04 19:59:43,014 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 19:59:53,015 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 19:59:53,015 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 19:59:53,015 - BotProcessor - INFO - Processando pedido: 1749077940747 - Detalhes: Comentários total: 1, Já processados: 0, Status: processando
+2025-06-04 19:59:53,016 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747
+2025-06-04 19:59:53,016 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747 com usuário sh_aurora75
+2025-06-04 19:59:53,016 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:00:03,017 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:00:03,018 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:00:03,018 - BotProcessor - INFO - Processando pedido: 1749077940747 - Detalhes: Comentários total: 1, Já processados: 0, Status: processando
+2025-06-04 20:00:03,019 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747
+2025-06-04 20:00:03,019 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747 com usuário jenniffer.silvan
+2025-06-04 20:00:03,019 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:00:13,021 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:00:13,022 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:00:13,023 - BotProcessor - INFO - Processando pedido: 1749077940747 - Detalhes: Comentários total: 1, Já processados: 0, Status: processando
+2025-06-04 20:00:13,023 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747
+2025-06-04 20:00:13,024 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747 com usuário homerodosremedios
+2025-06-04 20:00:13,024 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:00:23,025 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:00:23,025 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:00:23,025 - BotProcessor - INFO - Processando pedido: 1749077940747 - Detalhes: Comentários total: 1, Já processados: 0, Status: processando
+2025-06-04 20:00:23,026 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747
+2025-06-04 20:00:23,026 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747 com usuário cardosomendes8
+2025-06-04 20:00:23,026 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:00:33,027 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:00:33,027 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:00:33,027 - BotProcessor - INFO - Processando pedido: 1749077940747 - Detalhes: Comentários total: 1, Já processados: 0, Status: processando
+2025-06-04 20:00:33,028 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747
+2025-06-04 20:00:33,028 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747 com usuário ryan.nunestt
+2025-06-04 20:00:33,028 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:00:43,029 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:00:43,029 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:00:43,030 - BotProcessor - INFO - Processando pedido: 1749077940747 - Detalhes: Comentários total: 1, Já processados: 0, Status: processando
+2025-06-04 20:00:43,030 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747
+2025-06-04 20:00:43,030 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747 com usuário sueij919
+2025-06-04 20:00:43,031 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:00:53,031 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:00:53,032 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:00:53,032 - BotProcessor - INFO - Processando pedido: 1749077940747 - Detalhes: Comentários total: 1, Já processados: 0, Status: processando
+2025-06-04 20:00:53,032 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747
+2025-06-04 20:00:53,033 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747 com usuário _carlos.elias.s
+2025-06-04 20:00:53,033 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:01:03,034 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:01:03,034 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:01:03,035 - BotProcessor - INFO - Processando pedido: 1749077940747 - Detalhes: Comentários total: 1, Já processados: 0, Status: processando
+2025-06-04 20:01:03,035 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747
+2025-06-04 20:01:03,035 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747 com usuário rafael_rodriguest
+2025-06-04 20:01:03,035 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:01:08,055 - BotProcessor - INFO - Iniciando Bot Processor...
+2025-06-04 20:01:08,055 - BotProcessor - INFO - Iniciando Bot Processor
+2025-06-04 20:01:08,056 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:01:08,057 - BotProcessor - INFO - Processando pedido: 1749077940747 - Detalhes: Comentários total: 1, Já processados: 0, Status: processando
+2025-06-04 20:01:08,057 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747
+2025-06-04 20:01:08,057 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747 com usuário daniel.carvalhoov
+2025-06-04 20:01:08,057 - WDM - INFO - ====== WebDriver manager ======
+2025-06-04 20:01:08,525 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-04 20:01:08,646 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-04 20:01:08,695 - WDM - INFO - Driver [C:\Users\Felix\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-04 20:01:11,415 - BotProcessor - INFO - Carregando cookies para daniel.carvalhoov
+2025-06-04 20:01:13,036 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:01:13,037 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:01:13,037 - BotProcessor - INFO - Processando pedido: 1749077940747 - Detalhes: Comentários total: 1, Já processados: 0, Status: processando
+2025-06-04 20:01:13,037 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747
+2025-06-04 20:01:13,037 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747 com usuário jwisiwri
+2025-06-04 20:01:13,037 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:01:17,145 - BotProcessor - INFO - Navegando para o post: https://www.instagram.com/p/DKao971OUq-/
+2025-06-04 20:01:23,038 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:01:23,038 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:01:23,039 - BotProcessor - INFO - Processando pedido: 1749077940747 - Detalhes: Comentários total: 1, Já processados: 0, Status: processando
+2025-06-04 20:01:23,039 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747
+2025-06-04 20:01:23,039 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747 com usuário ricardoassuncao43
+2025-06-04 20:01:23,039 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:01:29,399 - BotProcessor - INFO - Tentando encontrar campo de comentário...
+2025-06-04 20:01:29,415 - BotProcessor - INFO - Campo de comentário encontrado com seletor principal
+2025-06-04 20:01:29,592 - BotProcessor - INFO - Tentou clicar no botão Postar via JavaScript direto
+2025-06-04 20:01:29,596 - BotProcessor - INFO - JavaScript não funcionou, tentando método Selenium
+2025-06-04 20:01:33,040 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:01:33,040 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:01:33,041 - BotProcessor - INFO - Processando pedido: 1749077940747 - Detalhes: Comentários total: 1, Já processados: 0, Status: processando
+2025-06-04 20:01:33,041 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747
+2025-06-04 20:01:33,041 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747 com usuário kwoao9
+2025-06-04 20:01:33,041 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:01:39,626 - BotProcessor - WARNING - Erro ao clicar no botão com Selenium: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf73763+63299]
+	GetHandleVerifier [0x0xf737a4+63364]
+	(No symbol) [0x0xda1113]
+	(No symbol) [0x0xde987e]
+	(No symbol) [0x0xde9c1b]
+	(No symbol) [0x0xe32212]
+	(No symbol) [0x0xe0e5c4]
+	(No symbol) [0x0xe2fa4a]
+	(No symbol) [0x0xe0e376]
+	(No symbol) [0x0xddd6e0]
+	(No symbol) [0x0xdde544]
+	GetHandleVerifier [0x0x11ce033+2531347]
+	GetHandleVerifier [0x0x11c9332+2511634]
+	GetHandleVerifier [0x0xf99eda+220858]
+	GetHandleVerifier [0x0xf8a528+156936]
+	GetHandleVerifier [0x0xf90c5d+183357]
+	GetHandleVerifier [0x0xf7b6c8+95912]
+	GetHandleVerifier [0x0xf7b870+96336]
+	GetHandleVerifier [0x0xf6664a+9770]
+	BaseThreadInitThunk [0x0x76097ba9+25]
+	RtlInitializeExceptionChain [0x0x7712c0cb+107]
+	RtlClearBits [0x0x7712c04f+191]
+
+2025-06-04 20:01:39,654 - BotProcessor - INFO - Enviou ENTER no campo de comentário como último recurso
+2025-06-04 20:01:39,654 - BotProcessor - WARNING - Erro ao verificar campo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf73763+63299]
+	GetHandleVerifier [0x0xf737a4+63364]
+	(No symbol) [0x0xda1113]
+	(No symbol) [0x0xde987e]
+	(No symbol) [0x0xde9c1b]
+	(No symbol) [0x0xe32212]
+	(No symbol) [0x0xe0e5c4]
+	(No symbol) [0x0xe2fa4a]
+	(No symbol) [0x0xe0e376]
+	(No symbol) [0x0xddd6e0]
+	(No symbol) [0x0xdde544]
+	GetHandleVerifier [0x0x11ce033+2531347]
+	GetHandleVerifier [0x0x11c9332+2511634]
+	GetHandleVerifier [0x0xf99eda+220858]
+	GetHandleVerifier [0x0xf8a528+156936]
+	GetHandleVerifier [0x0xf90c5d+183357]
+	GetHandleVerifier [0x0xf7b6c8+95912]
+	GetHandleVerifier [0x0xf7b870+96336]
+	GetHandleVerifier [0x0xf6664a+9770]
+	BaseThreadInitThunk [0x0x76097ba9+25]
+	RtlInitializeExceptionChain [0x0x7712c0cb+107]
+	RtlClearBits [0x0x7712c04f+191]
+
+2025-06-04 20:01:39,654 - BotProcessor - INFO - Aguardando 10 segundos após o comentário...
+2025-06-04 20:01:43,042 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:01:43,042 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:01:43,043 - BotProcessor - INFO - Processando pedido: 1749077940747 - Detalhes: Comentários total: 1, Já processados: 0, Status: processando
+2025-06-04 20:01:43,043 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747
+2025-06-04 20:01:43,043 - BotProcessor - INFO - Processando comentário 1/1 do pedido 1749077940747 com usuário miguelalmeidprn
+2025-06-04 20:01:43,043 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:01:49,655 - BotProcessor - INFO - Fechando o navegador após o comentário...
+2025-06-04 20:01:52,664 - BotProcessor - INFO - Comentário 1/1 do pedido 1749077940747 processado com sucesso
+2025-06-04 20:01:52,665 - BotProcessor - INFO - Todos os 1 comentários do pedido 1749077940747 processados com sucesso!
+2025-06-04 20:01:53,045 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:01:53,046 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando...
+2025-06-04 20:02:03,047 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:02:03,048 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:02:13,048 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:02:13,049 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:02:23,050 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:02:23,051 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:02:33,050 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:02:33,050 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:02:43,050 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:02:43,051 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:02:48,470 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:02:48,470 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando...
+2025-06-04 20:02:53,051 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:02:53,051 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:02:58,472 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:02:58,473 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:03:03,051 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:03:03,052 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:03:08,473 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:03:08,474 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:03:13,053 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:03:13,054 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:03:18,475 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:03:18,476 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:03:23,053 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:03:23,054 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:03:28,475 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:03:28,476 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:03:33,054 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:03:33,055 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:03:38,476 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:03:38,477 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:03:43,055 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:03:43,057 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:03:48,477 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:03:48,478 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:03:53,055 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:03:53,056 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:03:58,477 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:03:58,477 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:04:03,056 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:04:03,057 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:04:08,478 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:04:08,478 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:04:13,057 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:04:13,058 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:04:18,478 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:04:18,479 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:04:23,057 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:04:23,058 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:04:28,479 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:04:28,480 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:04:33,058 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:04:33,058 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:04:33,059 - BotProcessor - INFO - Processando pedido: 1749078268878 - Detalhes: Comentários total: 2, Já processados: 0, Status: pendente
+2025-06-04 20:04:33,059 - BotProcessor - INFO - Inicializando controle de progresso para pedido 1749078268878: 2 comentários
+2025-06-04 20:04:33,059 - BotProcessor - INFO - Processando comentário 1/2 do pedido 1749078268878
+2025-06-04 20:04:33,060 - BotProcessor - INFO - Processando comentário 1/2 do pedido 1749078268878 com usuário f.abio.viniciusss
+2025-06-04 20:04:33,060 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:04:38,479 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:04:38,480 - BotProcessor - INFO - Processando pedido: 1749078268878 - Detalhes: Comentários total: 2, Já processados: 0, Status: processando
+2025-06-04 20:04:38,480 - BotProcessor - INFO - Processando comentário 1/2 do pedido 1749078268878
+2025-06-04 20:04:38,480 - BotProcessor - INFO - Processando comentário 1/2 do pedido 1749078268878 com usuário luan.nathantt
+2025-06-04 20:04:38,480 - WDM - INFO - ====== WebDriver manager ======
+2025-06-04 20:04:38,968 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-04 20:04:39,050 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-04 20:04:39,109 - WDM - INFO - Driver [C:\Users\Felix\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-04 20:04:42,057 - BotProcessor - INFO - Carregando cookies para luan.nathantt
+2025-06-04 20:04:43,061 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:04:43,061 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:04:43,062 - BotProcessor - INFO - Processando pedido: 1749078268878 - Detalhes: Comentários total: 2, Já processados: 0, Status: processando
+2025-06-04 20:04:43,062 - BotProcessor - INFO - Processando comentário 1/2 do pedido 1749078268878
+2025-06-04 20:04:43,062 - BotProcessor - INFO - Processando comentário 1/2 do pedido 1749078268878 com usuário marcioalmeida1220
+2025-06-04 20:04:43,062 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:04:49,132 - BotProcessor - INFO - Navegando para o post: https://www.instagram.com/p/DKao2GjOUNk/
+2025-06-04 20:04:53,064 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:04:53,065 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:04:53,066 - BotProcessor - INFO - Processando pedido: 1749078268878 - Detalhes: Comentários total: 2, Já processados: 0, Status: processando
+2025-06-04 20:04:53,066 - BotProcessor - INFO - Processando comentário 1/2 do pedido 1749078268878
+2025-06-04 20:04:53,067 - BotProcessor - INFO - Processando comentário 1/2 do pedido 1749078268878 com usuário carlos.durvalt
+2025-06-04 20:04:53,067 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:05:01,628 - BotProcessor - INFO - Tentando encontrar campo de comentário...
+2025-06-04 20:05:01,643 - BotProcessor - INFO - Campo de comentário encontrado com seletor principal
+2025-06-04 20:05:01,823 - BotProcessor - INFO - Tentou clicar no botão Postar via JavaScript direto
+2025-06-04 20:05:01,826 - BotProcessor - INFO - JavaScript não funcionou, tentando método Selenium
+2025-06-04 20:05:03,068 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:05:03,069 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:05:03,069 - BotProcessor - INFO - Processando pedido: 1749078268878 - Detalhes: Comentários total: 2, Já processados: 0, Status: processando
+2025-06-04 20:05:03,069 - BotProcessor - INFO - Processando comentário 1/2 do pedido 1749078268878
+2025-06-04 20:05:03,069 - BotProcessor - INFO - Processando comentário 1/2 do pedido 1749078268878 com usuário gusferp_55
+2025-06-04 20:05:03,070 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:05:11,841 - BotProcessor - WARNING - Erro ao clicar no botão com Selenium: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1073763+63299]
+	GetHandleVerifier [0x0x10737a4+63364]
+	(No symbol) [0x0xea1113]
+	(No symbol) [0x0xee987e]
+	(No symbol) [0x0xee9c1b]
+	(No symbol) [0x0xf32212]
+	(No symbol) [0x0xf0e5c4]
+	(No symbol) [0x0xf2fa4a]
+	(No symbol) [0x0xf0e376]
+	(No symbol) [0x0xedd6e0]
+	(No symbol) [0x0xede544]
+	GetHandleVerifier [0x0x12ce033+2531347]
+	GetHandleVerifier [0x0x12c9332+2511634]
+	GetHandleVerifier [0x0x1099eda+220858]
+	GetHandleVerifier [0x0x108a528+156936]
+	GetHandleVerifier [0x0x1090c5d+183357]
+	GetHandleVerifier [0x0x107b6c8+95912]
+	GetHandleVerifier [0x0x107b870+96336]
+	GetHandleVerifier [0x0x106664a+9770]
+	BaseThreadInitThunk [0x0x76097ba9+25]
+	RtlInitializeExceptionChain [0x0x7712c0cb+107]
+	RtlClearBits [0x0x7712c04f+191]
+
+2025-06-04 20:05:11,871 - BotProcessor - INFO - Enviou ENTER no campo de comentário como último recurso
+2025-06-04 20:05:11,871 - BotProcessor - WARNING - Erro ao verificar campo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1073763+63299]
+	GetHandleVerifier [0x0x10737a4+63364]
+	(No symbol) [0x0xea1113]
+	(No symbol) [0x0xee987e]
+	(No symbol) [0x0xee9c1b]
+	(No symbol) [0x0xf32212]
+	(No symbol) [0x0xf0e5c4]
+	(No symbol) [0x0xf2fa4a]
+	(No symbol) [0x0xf0e376]
+	(No symbol) [0x0xedd6e0]
+	(No symbol) [0x0xede544]
+	GetHandleVerifier [0x0x12ce033+2531347]
+	GetHandleVerifier [0x0x12c9332+2511634]
+	GetHandleVerifier [0x0x1099eda+220858]
+	GetHandleVerifier [0x0x108a528+156936]
+	GetHandleVerifier [0x0x1090c5d+183357]
+	GetHandleVerifier [0x0x107b6c8+95912]
+	GetHandleVerifier [0x0x107b870+96336]
+	GetHandleVerifier [0x0x106664a+9770]
+	BaseThreadInitThunk [0x0x76097ba9+25]
+	RtlInitializeExceptionChain [0x0x7712c0cb+107]
+	RtlClearBits [0x0x7712c04f+191]
+
+2025-06-04 20:05:11,872 - BotProcessor - INFO - Aguardando 10 segundos após o comentário...
+2025-06-04 20:05:13,071 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:05:13,071 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:05:13,071 - BotProcessor - INFO - Processando pedido: 1749078268878 - Detalhes: Comentários total: 2, Já processados: 0, Status: processando
+2025-06-04 20:05:13,072 - BotProcessor - INFO - Processando comentário 1/2 do pedido 1749078268878
+2025-06-04 20:05:13,072 - BotProcessor - INFO - Processando comentário 1/2 do pedido 1749078268878 com usuário ricardoassuncao43
+2025-06-04 20:05:13,072 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:05:21,873 - BotProcessor - INFO - Fechando o navegador após o comentário...
+2025-06-04 20:05:23,073 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:05:23,073 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:05:23,074 - BotProcessor - INFO - Processando pedido: 1749078268878 - Detalhes: Comentários total: 2, Já processados: 0, Status: processando
+2025-06-04 20:05:23,074 - BotProcessor - INFO - Processando comentário 1/2 do pedido 1749078268878
+2025-06-04 20:05:23,074 - BotProcessor - INFO - Processando comentário 1/2 do pedido 1749078268878 com usuário marcioalmeida1220
+2025-06-04 20:05:23,074 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:05:24,917 - BotProcessor - INFO - Comentário 1/2 do pedido 1749078268878 processado com sucesso
+2025-06-04 20:05:24,918 - BotProcessor - INFO - Ainda restam 1 comentários para processar no pedido 1749078268878
+2025-06-04 20:05:24,920 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:05:24,922 - BotProcessor - INFO - Processando pedido: 1749078268878 - Detalhes: Comentários total: 2, Já processados: 1, Status: processando
+2025-06-04 20:05:24,922 - BotProcessor - INFO - Processando comentário 2/2 do pedido 1749078268878
+2025-06-04 20:05:24,923 - BotProcessor - INFO - Processando comentário 2/2 do pedido 1749078268878 com usuário homerodosremedios
+2025-06-04 20:05:24,923 - WDM - INFO - ====== WebDriver manager ======
+2025-06-04 20:05:25,426 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-04 20:05:25,479 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-04 20:05:25,527 - WDM - INFO - Driver [C:\Users\Felix\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-04 20:05:27,505 - BotProcessor - INFO - Carregando cookies para homerodosremedios
+2025-06-04 20:05:33,075 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:05:33,076 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:05:33,076 - BotProcessor - INFO - Processando pedido: 1749078268878 - Detalhes: Comentários total: 2, Já processados: 1, Status: processando
+2025-06-04 20:05:33,076 - BotProcessor - INFO - Processando comentário 2/2 do pedido 1749078268878
+2025-06-04 20:05:33,077 - BotProcessor - INFO - Processando comentário 2/2 do pedido 1749078268878 com usuário lucasferreira1987b
+2025-06-04 20:05:33,077 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:05:33,298 - BotProcessor - INFO - Navegando para o post: https://www.instagram.com/p/DKao2GjOUNk/
+2025-06-04 20:05:43,078 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:05:43,078 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:05:43,079 - BotProcessor - INFO - Processando pedido: 1749078268878 - Detalhes: Comentários total: 2, Já processados: 1, Status: processando
+2025-06-04 20:05:43,079 - BotProcessor - INFO - Processando comentário 2/2 do pedido 1749078268878
+2025-06-04 20:05:43,079 - BotProcessor - INFO - Processando comentário 2/2 do pedido 1749078268878 com usuário carlos.durvalt
+2025-06-04 20:05:43,079 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:05:45,596 - BotProcessor - INFO - Tentando encontrar campo de comentário...
+2025-06-04 20:05:45,606 - BotProcessor - INFO - Campo de comentário encontrado com seletor principal
+2025-06-04 20:05:45,813 - BotProcessor - INFO - Tentou clicar no botão Postar via JavaScript direto
+2025-06-04 20:05:45,816 - BotProcessor - INFO - JavaScript não funcionou, tentando método Selenium
+2025-06-04 20:05:53,081 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:05:53,082 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:05:53,083 - BotProcessor - INFO - Processando pedido: 1749078268878 - Detalhes: Comentários total: 2, Já processados: 1, Status: processando
+2025-06-04 20:05:53,083 - BotProcessor - INFO - Processando comentário 2/2 do pedido 1749078268878
+2025-06-04 20:05:53,083 - BotProcessor - INFO - Processando comentário 2/2 do pedido 1749078268878 com usuário diegoro_87
+2025-06-04 20:05:53,084 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:05:55,841 - BotProcessor - WARNING - Erro ao clicar no botão com Selenium: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1073763+63299]
+	GetHandleVerifier [0x0x10737a4+63364]
+	(No symbol) [0x0xea1113]
+	(No symbol) [0x0xee987e]
+	(No symbol) [0x0xee9c1b]
+	(No symbol) [0x0xf32212]
+	(No symbol) [0x0xf0e5c4]
+	(No symbol) [0x0xf2fa4a]
+	(No symbol) [0x0xf0e376]
+	(No symbol) [0x0xedd6e0]
+	(No symbol) [0x0xede544]
+	GetHandleVerifier [0x0x12ce033+2531347]
+	GetHandleVerifier [0x0x12c9332+2511634]
+	GetHandleVerifier [0x0x1099eda+220858]
+	GetHandleVerifier [0x0x108a528+156936]
+	GetHandleVerifier [0x0x1090c5d+183357]
+	GetHandleVerifier [0x0x107b6c8+95912]
+	GetHandleVerifier [0x0x107b870+96336]
+	GetHandleVerifier [0x0x106664a+9770]
+	BaseThreadInitThunk [0x0x76097ba9+25]
+	RtlInitializeExceptionChain [0x0x7712c0cb+107]
+	RtlClearBits [0x0x7712c04f+191]
+
+2025-06-04 20:05:55,856 - BotProcessor - INFO - Enviou ENTER no campo de comentário como último recurso
+2025-06-04 20:05:55,856 - BotProcessor - WARNING - Erro ao verificar campo: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1073763+63299]
+	GetHandleVerifier [0x0x10737a4+63364]
+	(No symbol) [0x0xea1113]
+	(No symbol) [0x0xee987e]
+	(No symbol) [0x0xee9c1b]
+	(No symbol) [0x0xf32212]
+	(No symbol) [0x0xf0e5c4]
+	(No symbol) [0x0xf2fa4a]
+	(No symbol) [0x0xf0e376]
+	(No symbol) [0x0xedd6e0]
+	(No symbol) [0x0xede544]
+	GetHandleVerifier [0x0x12ce033+2531347]
+	GetHandleVerifier [0x0x12c9332+2511634]
+	GetHandleVerifier [0x0x1099eda+220858]
+	GetHandleVerifier [0x0x108a528+156936]
+	GetHandleVerifier [0x0x1090c5d+183357]
+	GetHandleVerifier [0x0x107b6c8+95912]
+	GetHandleVerifier [0x0x107b870+96336]
+	GetHandleVerifier [0x0x106664a+9770]
+	BaseThreadInitThunk [0x0x76097ba9+25]
+	RtlInitializeExceptionChain [0x0x7712c0cb+107]
+	RtlClearBits [0x0x7712c04f+191]
+
+2025-06-04 20:05:55,857 - BotProcessor - INFO - Aguardando 10 segundos após o comentário...
+2025-06-04 20:06:03,085 - BotProcessor - ERROR - Erro ao processar data de pedido: can't subtract offset-naive and offset-aware datetimes
+2025-06-04 20:06:03,085 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:06:03,086 - BotProcessor - INFO - Processando pedido: 1749078268878 - Detalhes: Comentários total: 2, Já processados: 1, Status: processando
+2025-06-04 20:06:03,086 - BotProcessor - INFO - Processando comentário 2/2 do pedido 1749078268878
+2025-06-04 20:06:03,086 - BotProcessor - INFO - Processando comentário 2/2 do pedido 1749078268878 com usuário glauber.silvan
+2025-06-04 20:06:03,086 - BotProcessor - ERROR - Erro no loop principal: name 'tempfile' is not defined
+2025-06-04 20:06:05,857 - BotProcessor - INFO - Fechando o navegador após o comentário...
+2025-06-04 20:06:08,887 - BotProcessor - INFO - Comentário 2/2 do pedido 1749078268878 processado com sucesso
+2025-06-04 20:06:08,888 - BotProcessor - INFO - Todos os 2 comentários do pedido 1749078268878 processados com sucesso!
+2025-06-04 20:06:13,089 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:06:13,090 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando...
+2025-06-04 20:06:23,091 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:06:23,092 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:06:33,091 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:06:33,092 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:06:43,093 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:06:43,094 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:06:53,093 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:06:53,095 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:06:59,300 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:06:59,300 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando...
+2025-06-04 20:07:03,094 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:07:03,095 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:07:09,302 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:07:09,302 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:07:13,094 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:07:13,095 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:07:19,302 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:07:19,302 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:07:23,096 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:07:23,097 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:07:29,302 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:07:29,302 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:07:33,096 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:07:33,096 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:07:39,302 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:07:39,303 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:07:43,097 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:07:43,097 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:07:49,303 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:07:49,304 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:07:53,097 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:07:53,097 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:07:59,303 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:07:59,304 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:08:03,098 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:08:03,098 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:08:09,304 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:08:09,305 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:08:13,098 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:08:13,098 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:08:19,305 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:08:19,306 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:08:23,099 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:08:23,099 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:08:29,306 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:08:29,306 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:08:33,099 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:08:33,099 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:08:39,306 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:08:39,307 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:08:43,099 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:08:43,100 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:08:49,307 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:08:49,307 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:08:53,100 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:08:53,101 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:08:59,308 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:08:59,308 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:09:03,100 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:09:03,101 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:09:09,308 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:09:09,308 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:09:13,101 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:09:13,101 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:09:19,308 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:09:19,309 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:09:23,102 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:09:23,103 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:09:29,310 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:09:29,311 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:09:33,102 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:09:33,103 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:09:39,310 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:09:39,310 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:09:43,103 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:09:43,104 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:09:49,311 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:09:49,312 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:09:53,104 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:09:53,106 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:09:59,311 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:09:59,312 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:10:03,104 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:10:03,105 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:10:09,312 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:10:09,313 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:10:13,105 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:10:13,105 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:10:19,312 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:10:19,313 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:10:23,105 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:10:23,106 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:10:29,313 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:10:29,313 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:10:33,111 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:10:33,112 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:10:39,314 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:10:39,315 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:10:43,112 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:10:43,112 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:10:49,314 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:10:49,315 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:10:53,112 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:10:53,113 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:10:59,315 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:10:59,315 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:11:03,113 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:11:03,113 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:11:09,315 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:11:09,316 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:11:13,113 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:11:13,114 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:11:19,317 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:11:19,318 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:11:23,115 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:11:23,116 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:11:29,317 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:11:29,317 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:11:33,115 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:11:33,115 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:11:39,319 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:11:39,320 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:11:43,115 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:11:43,116 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:11:49,320 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:11:49,321 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:11:53,116 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:11:53,116 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:11:59,319 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:11:59,320 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:12:03,116 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:12:03,117 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:12:09,320 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:12:09,320 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:12:13,118 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:12:13,119 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:12:19,321 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:12:19,321 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:12:23,118 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:12:23,119 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:12:29,322 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:12:29,322 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:12:33,118 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:12:33,119 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:12:39,321 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:12:39,322 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:12:43,119 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:12:43,119 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:12:49,322 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:12:49,322 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:12:53,120 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:12:53,120 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:12:59,323 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:12:59,323 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:13:03,121 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:13:03,122 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:13:09,323 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:13:09,324 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:13:13,121 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:13:13,122 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:13:19,324 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:13:19,324 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:13:23,121 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:13:23,122 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:13:29,325 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:13:29,325 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:13:33,123 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:13:33,124 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:13:39,326 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:13:39,327 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:13:43,124 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:13:43,125 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:13:48,623 - BotProcessor - INFO - Programa interrompido pelo usuário
+2025-06-04 20:13:53,125 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:13:53,126 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:14:03,126 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:14:03,126 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:15:57,079 - BotProcessor - INFO - Iniciando Bot Processor...
+2025-06-04 20:15:57,079 - BotProcessor - INFO - Iniciando Bot Processor
+2025-06-04 20:15:57,080 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:15:57,080 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando...
+2025-06-04 20:16:07,081 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:16:07,082 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:16:17,082 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:16:17,082 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:16:27,082 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:16:27,083 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:16:37,083 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:16:37,083 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:16:47,084 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:16:47,085 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:16:57,085 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:16:57,086 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:17:07,085 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:17:07,086 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:17:17,086 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:17:17,087 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:17:27,087 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:17:27,087 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:17:37,087 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:17:37,087 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:17:47,087 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:17:47,088 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:17:57,088 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:17:57,089 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:18:07,090 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:18:07,091 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:18:17,090 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:18:17,090 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:18:27,090 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:18:27,091 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:18:37,091 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:18:37,092 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:18:47,092 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:18:47,092 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:18:57,092 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:18:57,093 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:19:07,093 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:19:07,094 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:19:17,094 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:19:17,095 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:19:27,095 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:19:27,095 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:19:37,095 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:19:37,096 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:19:47,097 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:19:47,098 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:19:57,098 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:19:57,099 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:20:07,098 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:20:07,098 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:20:17,099 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:20:17,100 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:20:27,100 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:20:27,101 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:20:37,101 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:20:37,102 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:20:47,102 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:20:47,103 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:20:57,103 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:20:57,104 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:21:07,103 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:21:07,104 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:21:17,105 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:21:17,106 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:21:27,104 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:21:27,105 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:21:37,106 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:21:37,106 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:21:47,106 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:21:47,106 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:21:57,107 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:21:57,109 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:22:07,108 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:22:07,108 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:22:17,109 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:22:17,109 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:22:27,109 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:22:27,110 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:22:37,110 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:22:37,110 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:22:47,110 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:22:47,110 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:22:57,110 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:22:57,111 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:23:07,111 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:23:07,111 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:23:17,112 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:23:17,112 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:23:27,112 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:23:27,113 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:23:37,113 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:23:37,114 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:23:47,113 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:23:47,114 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:23:57,114 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:23:57,114 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:24:07,114 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:24:07,114 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:24:17,115 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:24:17,116 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:24:27,115 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:24:27,116 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:24:37,116 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:24:37,116 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:24:47,116 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:24:47,117 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:24:57,117 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:24:57,118 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:25:07,118 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:25:07,118 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:25:17,118 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:25:17,119 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:25:27,119 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:25:27,119 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:25:37,119 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:25:37,120 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:25:47,120 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:25:47,120 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:25:57,122 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:25:57,123 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:26:07,122 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:26:07,122 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:26:17,123 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:26:17,124 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:26:27,124 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:26:27,124 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:26:37,124 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:26:37,124 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:26:47,125 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:26:47,125 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:26:57,126 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:26:57,127 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:27:07,127 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:27:07,128 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:27:17,128 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:27:17,129 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:27:27,129 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:27:27,130 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:27:37,130 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:27:37,131 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:27:47,131 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:27:47,132 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:27:57,131 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:27:57,132 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:28:07,131 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:28:07,132 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:28:17,132 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:28:17,132 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:28:27,133 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:28:27,133 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:28:37,133 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:28:37,133 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:28:47,134 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:28:47,134 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:28:57,135 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:28:57,136 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:29:07,135 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:29:07,136 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:29:17,136 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:29:17,136 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:29:27,137 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:29:27,138 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:29:37,137 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:29:37,137 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:29:47,137 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:29:47,138 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:29:57,137 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:29:57,138 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:30:07,139 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:30:07,140 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:30:17,138 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:30:17,139 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:30:27,140 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:30:27,141 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:30:37,142 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:30:37,143 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:30:47,142 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:30:47,143 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:30:57,142 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:30:57,143 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:31:07,143 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:31:07,143 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:31:17,144 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:31:17,144 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:31:27,144 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:31:27,145 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:31:37,145 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:31:37,145 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:31:47,145 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:31:47,146 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:31:57,146 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:31:57,146 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:32:07,146 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:32:07,147 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:32:17,147 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:32:17,147 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:32:27,147 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:32:27,148 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:32:37,148 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:32:37,148 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:32:47,148 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:32:47,149 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:32:57,149 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:32:57,149 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:33:07,150 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:33:07,150 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:33:17,150 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:33:17,150 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:33:27,150 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:33:27,151 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:33:37,151 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:33:37,151 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:33:47,151 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:33:47,152 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:33:57,152 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:33:57,152 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:34:07,152 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:34:07,153 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:34:17,153 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:34:17,153 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:34:27,153 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:34:27,154 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:34:37,154 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:34:37,154 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:34:47,154 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:34:47,155 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:34:57,154 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:34:57,155 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:35:07,155 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:35:07,155 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:35:17,156 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:35:17,156 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:35:27,157 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:35:27,157 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:35:37,157 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:35:37,157 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:35:47,157 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:35:47,158 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:35:57,158 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:35:57,158 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:36:07,159 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:36:07,160 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:36:17,160 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:36:17,161 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:36:27,160 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:36:27,161 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:36:37,161 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:36:37,162 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:36:47,162 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:36:47,163 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:36:57,162 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:36:57,163 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:37:07,163 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:37:07,163 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:37:17,163 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:37:17,163 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:37:27,164 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:37:27,164 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...
+2025-06-04 20:37:37,164 - BotProcessor - INFO - Carregados 63 usuários do Instagram
+2025-06-04 20:37:37,165 - BotProcessor - INFO - Nenhum pedido pendente. Aguardando 10.0 segundos...

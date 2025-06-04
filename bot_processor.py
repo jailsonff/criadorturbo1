@@ -12,6 +12,7 @@ import os
 import sys
 import logging
 import random
+import tempfile
 from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -521,7 +522,7 @@ def main_loop():
                     pending_filtered = [p for p in pending if p['id'] not in ids_processados]
                     
                     # 2. Verificar pedidos muito antigos (mais de 24 horas) e marcá-los como falha
-                    current_time = datetime.now()
+                    current_time = datetime.now().astimezone()
                     updated_pending = []
                     expired_count = 0
                     
