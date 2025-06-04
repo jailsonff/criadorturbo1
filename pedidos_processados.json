@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1747966552082",
+    "link": "https://www.instagram.com/p/DJeUWr-Nrhb/",
+    "comentarios": [
+      "top",
+      "top",
+      "top"
+    ],
+    "cliente": "juju",
+    "email": "juju@gmail.com",
+    "status": "concluido",
+    "data_criacao": "2025-05-23T02:15:52.082Z",
+    "data_processamento": "2025-05-22T23:23:28.434468",
+    "comentarios_processados": 3,
+    "total_comentarios": 3,
+    "tentativas_comentario": {
+      "0": 1,
+      "1": 1
+    },
+    "mensagem": "Todos os 3 comentários foram postados com sucesso!"
+  },
+  {
+    "id": "1747966554677",
+    "link": "https://www.instagram.com/p/DJeUWr-Nrhb/",
+    "comentarios": [
+      "top",
+      "top",
+      "top"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "status": "concluido",
+    "data_criacao": "2025-05-23T02:15:54.677Z",
+    "data_processamento": "2025-05-22T23:25:06.818451",
+    "comentarios_processados": 3,
+    "total_comentarios": 3,
+    "tentativas_comentario": {
+      "1": 1
+    },
+    "mensagem": "Todos os 3 comentários foram postados com sucesso!"
+  }
+]
