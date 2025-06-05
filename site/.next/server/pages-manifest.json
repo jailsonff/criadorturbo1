@@ -2,12 +2,8 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/planos": "pages/planos.js",
-  "/api/planos": "pages/api/planos.js",
-  "/api/pix": "pages/api/pix.js",
-  "/api/pix-status": "pages/api/pix-status.js",
   "/dashboard": "pages/dashboard.js",
-  "/admin": "pages/admin.js",
-  "/api/clientes": "pages/api/clientes.js",
-  "/api/status-pedidos": "pages/api/status-pedidos.js"
+  "/": "pages/index.js",
+  "/api/status-pedidos": "pages/api/status-pedidos.js",
+  "/api/planos": "pages/api/planos.js"
 }

@@ -405,35 +405,6 @@ export default function Admin() {
   const [novoUsuario, setNovoUsuario] = useState({nome:'', email:'', whatsapp:'', senha:'', comentarios:0, admin:false, simultaneos:1});
 
   // --- Pedidos: Funções admin ---
-  async function handleDeletePedido(idx:number) {
-    if(window.confirm('Tem certeza que deseja deletar este pedido?')){
-      const pedido = pedidos[idx];
-      // Determinar tipo do pedido (pendente ou processado)
-      let tipo: 'pendente' | 'processado' = 'pendente';
-      if (pedido.status === 'concluido' || pedido.status === 'falha' || pedido.success === true || pedido.success === false) {
-        tipo = 'processado';
-      }
-      try {
-        const resp = await fetch('/api/pedidos', {
-          method: 'DELETE',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ id: pedido.id, link: pedido.link, tipo })
-        });
-        const data = await resp.json();
-        if (resp.ok && data.success) {
-          await fetchPedidosAdmin();
-          setMsg('Pedido excluído!');
-          setTimeout(()=>setMsg(''), 1500);
-        } else {
-          setMsg(data.error || 'Erro ao excluir pedido!');
-          setTimeout(()=>setMsg(''), 2500);
-        }
-      } catch (err) {
-        setMsg('Erro ao excluir pedido!');
-        setTimeout(()=>setMsg(''), 2500);
-      }
-    }
-  }
   function handleStopPedido(idx:number) {
     const novas = [...pedidos];
     novas[idx].status = 'parado';

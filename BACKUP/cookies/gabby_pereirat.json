@@ -1,0 +1,91 @@
+[
+  {
+    "domain": ".instagram.com",
+    "httpOnly": true,
+    "name": "rur",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "\"LDC\\05466935807775\\0541778734728:01f71bdee8a33b647dd8aeb7304bc42df5c6944bca9ec01d2ed28037c8050f1ccf4c8d09\""
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1778685650,
+    "httpOnly": false,
+    "name": "ig_nrcb",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1778734726,
+    "httpOnly": true,
+    "name": "sessionid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "66935807775%3AffOL6oM0v0Nxsc%3A26%3AAYdovdY2e629jov8jLbmOiQ3aexg1S8dPjAvJOqNOg"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1781709649,
+    "httpOnly": false,
+    "name": "mid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "aCNjUQALAAEdWpCFTr-6xOH0MGXd"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1778685648,
+    "httpOnly": true,
+    "name": "ig_did",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "17A206B6-5B5C-4E88-9B87-6F3D5FD9487B"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1781709648,
+    "httpOnly": true,
+    "name": "datr",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "UWMjaBa-pTtoEPnzzTgvWlfd"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1754974727,
+    "httpOnly": false,
+    "name": "ds_user_id",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "66935807775"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1747803527,
+    "httpOnly": false,
+    "name": "wd",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1264x705"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1781758727,
+    "httpOnly": false,
+    "name": "csrftoken",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "tWkQ8wsaJ-9_56sNL1LCeY"
+  }
+]
