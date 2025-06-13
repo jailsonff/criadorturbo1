@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/planos": "pages/api/planos.js",
+  "/dashboard": "pages/dashboard.js",
+  "/api/status-pedidos": "pages/api/status-pedidos.js",
+  "/api/clientes": "pages/api/clientes.js",
+  "/api/comentarios": "pages/api/comentarios.js",
+  "/api/pedidos": "pages/api/pedidos.js"
+}
