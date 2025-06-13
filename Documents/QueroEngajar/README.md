@@ -1,25 +1,62 @@
 # QueroEngajar
 
-## Como rodar o site no Replit
+Este repositório contém dois projetos principais:
+- **Pasta `QueroEngajar`**: Projeto Node.js/Express (backend).
+- **Pasta `site`**: Projeto Next.js (frontend).
 
-1. O comando para rodar automaticamente já está configurado no arquivo `.replit`.
-2. O site está dentro da pasta `site`.
-3. O comando usado é:
+---
 
-```
-cd site && npm install && npm run dev
-```
+## Como rodar no Replit (ou orientar a IA do Replit)
 
-Isso instala as dependências e inicia o servidor Next.js na porta 3001.
+### 1. Rodar o site da pasta `site` (frontend)
 
-## Manualmente
+- O arquivo `.replit` já está configurado para rodar automaticamente o frontend.
+- O comando executado será:
+  ```sh
+  cd site && npm install && npm run dev
+  ```
+- Isso instala as dependências e inicia o servidor Next.js na porta **3001**.
+- O endereço para acesso será exibido pelo Replit (geralmente porta 3001).
 
-Se precisar rodar manualmente:
-
+#### Para rodar manualmente no Replit ou localmente:
 ```sh
 cd site
 npm install
 npm run dev
 ```
 
-Acesse pelo navegador usando a URL que o Replit fornecer.
+---
+
+### 2. Rodar o site da pasta `QueroEngajar` (backend)
+
+- Entre na pasta `QueroEngajar`:
+  ```sh
+  cd QueroEngajar
+  ```
+- Instale as dependências:
+  ```sh
+  npm install
+  ```
+- Para ambiente de desenvolvimento, rode:
+  ```sh
+  npm run dev
+  ```
+- Para ambiente de produção (após build):
+  ```sh
+  npm run build
+  npm start
+  ```
+
+#### Observações para a IA do Replit:
+- O projeto principal para execução automática está configurado para o frontend (`site`).
+- Se quiser rodar o backend simultaneamente, será necessário abrir um novo shell/aba e executar os comandos acima na pasta `QueroEngajar`.
+- Certifique-se de que as portas usadas pelos dois projetos não conflitem.
+
+---
+
+## Resumo para a IA do Replit
+
+> Para rodar o frontend (Next.js), use o comando `cd site && npm install && npm run dev` (já configurado no `.replit`).
+> Para rodar o backend (Express/Node.js), entre na pasta `QueroEngajar`, instale as dependências e rode `npm run dev`.
+
+Consulte este README para detalhes sobre cada serviço.
