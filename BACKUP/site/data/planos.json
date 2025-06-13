@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1747958581877",
+    "nome": "",
+    "quantidade": 15,
+    "preco": 7,
+    "descricao": "15 CUSTA"
+  },
+  {
+    "id": "1747958668243",
+    "nome": "",
+    "quantidade": 30,
+    "preco": 13,
+    "descricao": "30 CUSTA"
+  },
+  {
+    "id": "1747958783580",
+    "nome": "",
+    "quantidade": 50,
+    "preco": 20,
+    "descricao": "50 CUSTA"
+  },
+  {
+    "id": "1747970811953",
+    "nome": "",
+    "quantidade": 100,
+    "preco": 35,
+    "descricao": "100 CUSTA"
+  },
+  {
+    "id": "1747970946858",
+    "nome": "",
+    "quantidade": 150,
+    "preco": 50,
+    "descricao": "150 CUSTA"
+  },
+  {
+    "id": "1747971002985",
+    "nome": "",
+    "quantidade": 200,
+    "preco": 70,
+    "descricao": "200 CUSTA"
+  },
+  {
+    "id": "1747971102499",
+    "nome": "",
+    "quantidade": 300,
+    "preco": 100,
+    "descricao": "300 CUSTA"
+  }
+]
