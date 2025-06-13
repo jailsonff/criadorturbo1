@@ -1,0 +1,813 @@
+[
+  {
+    "id": "1749571923225",
+    "link": "https://www.instagram.com/p/DIaIrhEtWAN/",
+    "comentarios": [
+      "Lindo"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "status": "concluido",
+    "data_criacao": "2025-06-10T16:12:03.225Z",
+    "data_processamento": null,
+    "realizados": 1,
+    "falhas": 0,
+    "mensagem": "1 sucesso(s), 0 falha(s)"
+  },
+  {
+    "id": "1749573328085",
+    "link": "https://www.instagram.com/p/DKa07ieNoVA/",
+    "comentarios": [
+      "LIndo"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "status": "concluido",
+    "data_criacao": "2025-06-10T16:35:28.085Z",
+    "data_processamento": null,
+    "realizados": 1,
+    "falhas": 0,
+    "mensagem": "1 sucesso(s), 0 falha(s)"
+  },
+  {
+    "id": "1749573526764",
+    "link": "https://www.instagram.com/p/DKa07ieNoVA/",
+    "comentarios": [
+      "você é lindo e maravilho",
+      "topado",
+      "gostoso"
+    ],
+    "cliente": "sandra",
+    "email": "sandra@gmail.com",
+    "status": "concluido",
+    "data_criacao": "2025-06-10T16:38:46.764Z",
+    "data_processamento": null,
+    "realizados": 3,
+    "falhas": 0,
+    "mensagem": "3 sucesso(s), 0 falha(s)"
+  },
+  {
+    "id": "1749573530642",
+    "link": "https://www.instagram.com/p/DKa07ieNoVA/",
+    "comentarios": [
+      "arradou muito",
+      "lindo",
+      "gato"
+    ],
+    "cliente": "dudu",
+    "email": "dudu@gmail.com",
+    "status": "concluido",
+    "data_criacao": "2025-06-10T16:38:50.642Z",
+    "data_processamento": null,
+    "realizados": 3,
+    "falhas": 0,
+    "mensagem": "3 sucesso(s), 0 falha(s)"
+  },
+  {
+    "id": "1749573550552",
+    "link": "https://www.instagram.com/p/DKa07ieNoVA/",
+    "comentarios": [
+      "perfeito"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "status": "concluido",
+    "data_criacao": "2025-06-10T16:39:10.552Z",
+    "data_processamento": null,
+    "realizados": 1,
+    "falhas": 0,
+    "mensagem": "1 sucesso(s), 0 falha(s)"
+  },
+  {
+    "id": "1749578804822",
+    "link": "https://www.instagram.com/p/DKa07ieNoVA/",
+    "comentarios": [
+      "Voce arrasou"
+    ],
+    "cliente": "dudu",
+    "email": "dudu@gmail.com",
+    "generoComentario": "feminino",
+    "status": "concluido",
+    "data_criacao": "2025-06-10T18:06:44.822Z",
+    "data_processamento": null,
+    "realizados": 1,
+    "falhas": 0,
+    "mensagem": "1 sucesso(s), 0 falha(s)"
+  },
+  {
+    "id": "1749579008062",
+    "link": "https://www.instagram.com/p/DKa07ieNoVA/",
+    "comentarios": [
+      "Lindo",
+      "arrasou",
+      "topdemais",
+      "perfeito",
+      "ja quero",
+      "lindo"
+    ],
+    "cliente": "dudu",
+    "email": "dudu@gmail.com",
+    "generoComentario": "feminino",
+    "status": "parcial",
+    "data_criacao": "2025-06-10T18:10:08.062Z",
+    "data_processamento": null,
+    "realizados": 5,
+    "falhas": 1,
+    "mensagem": "5 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749579940299",
+    "link": "https://www.instagram.com/p/DKa07ieNoVA/",
+    "comentarios": [
+      "Você está cada dia mais radiante! 🌟",
+      "Que energia maravilhosa, transmite só coisas boas! ✨",
+      "Sempre tão linda e iluminada! 😍",
+      "Seu sorriso alegra qualquer ambiente! 😄",
+      "Uma pessoa incrível por dentro e por fora! 💖",
+      "Que felicidade ver você tão bem! 🙌",
+      "Você merece tudo de melhor nessa vida! 💫",
+      "Brilha muito, você nasceu pra isso! 🔥",
+      "Que essa vibe boa nunca acabe! 🍀",
+      "Um exemplo de alegria e autenticidade! 🌈"
+    ],
+    "cliente": "dudu",
+    "email": "dudu@gmail.com",
+    "generoComentario": "feminino",
+    "status": "falha",
+    "data_criacao": "2025-06-10T18:25:40.299Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 10,
+    "mensagem": "0 sucesso(s), 10 falha(s)"
+  },
+  {
+    "id": "1749580379739",
+    "link": "https://www.instagram.com/p/DKa09HttkVB/",
+    "comentarios": [
+      "Você está cada dia mais radiante! 🌟",
+      "Que energia maravilhosa, transmite só coisas boas! ✨",
+      "Sempre tão linda e iluminada! 😍",
+      "Seu sorriso alegra qualquer ambiente! 😄",
+      "Uma pessoa incrível por dentro e por fora! 💖",
+      "Que felicidade ver você tão bem! 🙌",
+      "Você merece tudo de melhor nessa vida! 💫",
+      "Brilha muito, você nasceu pra isso! 🔥",
+      "Que essa vibe boa nunca acabe! 🍀",
+      "Um exemplo de alegria e autenticidade! 🌈"
+    ],
+    "cliente": "dudu",
+    "email": "dudu@gmail.com",
+    "generoComentario": "feminino",
+    "status": "parcial",
+    "data_criacao": "2025-06-10T18:32:59.739Z",
+    "data_processamento": null,
+    "realizados": 9,
+    "falhas": 1,
+    "mensagem": "9 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749581278704",
+    "link": "https://www.instagram.com/p/DKa09HttkVB/",
+    "comentarios": [
+      "Que sorte ter gente como você por perto! 🤍",
+      "Felicidade combina com você! 🥰",
+      "Você tem uma luz que contagia! 💡",
+      "Cada vez mais maravilhosa! 😘",
+      "Parabéns por tudo que você é! 👏",
+      "Que essa fase linda só cresça! 🌻",
+      "Você inspira muita gente, sabia? 💌",
+      "Que venham mais momentos incríveis assim! 🎉",
+      "Você é pura alegria, não tem como não admirar! 💃",
+      "Toda a felicidade do mundo pra você! 🎈"
+    ],
+    "cliente": "dudu",
+    "email": "dudu@gmail.com",
+    "generoComentario": "feminino",
+    "status": "concluido",
+    "data_criacao": "2025-06-10T18:47:58.704Z",
+    "data_processamento": null,
+    "realizados": 10,
+    "falhas": 0,
+    "mensagem": "10 sucesso(s), 0 falha(s)"
+  },
+  {
+    "id": "1749581648496",
+    "link": "https://www.instagram.com/p/DKuyFmzRAkM/",
+    "comentarios": [
+      "Que sorte ter gente como você por perto! 🤍",
+      "Felicidade combina com você! 🥰",
+      "Você tem uma luz que contagia! 💡",
+      "Cada vez mais maravilhosa! 😘",
+      "Parabéns por tudo que você é! 👏",
+      "Que essa fase linda só cresça! 🌻",
+      "Você inspira muita gente, sabia? 💌",
+      "Que venham mais momentos incríveis assim! 🎉",
+      "Você é pura alegria, não tem como não admirar! 💃",
+      "Toda a felicidade do mundo pra você! 🎈"
+    ],
+    "cliente": "dudu",
+    "email": "dudu@gmail.com",
+    "generoComentario": "feminino",
+    "status": "concluido",
+    "data_criacao": "2025-06-10T18:54:08.496Z",
+    "data_processamento": null,
+    "realizados": 10,
+    "falhas": 0,
+    "mensagem": "10 sucesso(s), 0 falha(s)"
+  },
+  {
+    "id": "1749585671379",
+    "link": "https://www.instagram.com/p/DKuyFmzRAkM/",
+    "comentarios": [
+      "top"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "feminino",
+    "status": "falha",
+    "data_criacao": "2025-06-10T20:01:11.379Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749588169428",
+    "link": "https://www.instagram.com/p/DKuyFmzRAkM/",
+    "comentarios": [
+      "timido",
+      "legal"
+    ],
+    "cliente": "dudu",
+    "email": "dudu@gmail.com",
+    "generoComentario": "masculino",
+    "status": "concluido",
+    "data_criacao": "2025-06-10T20:42:49.428Z",
+    "data_processamento": null,
+    "realizados": 2,
+    "falhas": 0,
+    "mensagem": "2 sucesso(s), 0 falha(s)"
+  },
+  {
+    "id": "1749588174946",
+    "link": "https://www.instagram.com/p/DKuyFmzRAkM/",
+    "comentarios": [
+      "otimo",
+      "legal"
+    ],
+    "cliente": "sandra",
+    "email": "sandra@gmail.com",
+    "generoComentario": "feminino",
+    "status": "concluido",
+    "data_criacao": "2025-06-10T20:42:54.946Z",
+    "data_processamento": null,
+    "realizados": 2,
+    "falhas": 0,
+    "mensagem": "2 sucesso(s), 0 falha(s)"
+  },
+  {
+    "id": "1749593313007",
+    "link": "https://www.instagram.com/p/C__DnX0ubdO/",
+    "comentarios": [
+      "Estilo impecável! 🔥",
+      "O homem sabe ser elegante!",
+      "Cada dia mais bonito, hein!",
+      "Referência demais! 👏",
+      "Esse visual tá incrível!",
+      "Charmoso como sempre!",
+      "Esse sorriso é carisma puro! 😁",
+      "Simplesmente sensacional!",
+      "Postura de quem nasceu pra vencer.",
+      "Homem de presença!",
+      "Isso que é atitude!",
+      "Que energia boa nessa foto!",
+      "O rei da pose perfeita! 👑",
+      "Muito estilo em uma só foto!",
+      "Sempre surpreendendo positivamente.",
+      "Essa foto tá digna de capa de revista!",
+      "Impossível não elogiar!",
+      "Inspiração de verdade.",
+      "Tá cada vez mais top!",
+      "O dono da elegância!",
+      "A vibe dessa foto tá surreal.",
+      "Que homão da prr!",
+      "O cara mais estiloso da timeline.",
+      "Exemplo de presença!",
+      "Sabe ser bonito sem esforço.",
+      "Sempre autêntico e único!",
+      "Parece até modelo!",
+      "Fotão de respeito!",
+      "Você tem um brilho diferente.",
+      "Elegância tem nome!",
+      "Tá voando alto, hein!",
+      "Estilo, beleza e atitude num só.",
+      "Orgulho define!",
+      "Que presença marcante!",
+      "Um verdadeiro destaque.",
+      "Esse homem é arte! 🎨",
+      "Tá impossível não reparar!",
+      "A foto fala por si: perfeição!",
+      "Mais um tiro certeiro no feed!",
+      "Roubou a cena total.",
+      "O tipo de homem que inspira!",
+      "Que olhar cativante! 👀",
+      "Quando a beleza encontra a atitude.",
+      "Dá aula de estilo!",
+      "Não erra nunca no look.",
+      "Fotogenia pura!",
+      "Transparece confiança.",
+      "Só melhora com o tempo!",
+      "Um charme que não se explica.",
+      "Sempre um espetáculo!",
+      "Um homem desses, bicho!",
+      "O que é bonito é pra se elogiar!",
+      "Esse look tá impecável!",
+      "Um verdadeiro influencer de estilo.",
+      "Carisma que contagia!",
+      "Que vibe mais top!",
+      "A foto fala mais que mil palavras.",
+      "Não tem como não curtir!",
+      "Esse homem tem presença!",
+      "Zero defeitos!"
+    ],
+    "cliente": "dudu",
+    "email": "dudu@gmail.com",
+    "generoComentario": "masculino",
+    "status": "parcial",
+    "data_criacao": "2025-06-10T22:08:33.007Z",
+    "data_processamento": null,
+    "realizados": 54,
+    "falhas": 6,
+    "mensagem": "54 sucesso(s), 6 falha(s)"
+  },
+  {
+    "id": "1749594257189",
+    "link": "https://www.instagram.com/reel/DKnVGiJOa2y/",
+    "comentarios": [
+      "Musa! 🔥",
+      "Que visão! 😍",
+      "Perfeita!",
+      "Elegância pura.",
+      "Simplesmente linda!",
+      "Deusa demais!",
+      "Muito charmosa!",
+      "Que corpo!",
+      "Um arraso!",
+      "Que mulherão!",
+      "Maravilhosa!",
+      "Encantadora!",
+      "Um espetáculo!",
+      "Puro charme.",
+      "Que curva linda!",
+      "Musa do feed!",
+      "Só elogios!",
+      "Roubou a cena!",
+      "Beleza sem igual!",
+      "Rainha! 👑",
+      "Que postura!",
+      "Sensacional!",
+      "Espetacular!"
+    ],
+    "cliente": "dudu",
+    "email": "dudu@gmail.com",
+    "generoComentario": "misto",
+    "status": "falha",
+    "data_criacao": "2025-06-10T22:24:17.189Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 23,
+    "mensagem": "0 sucesso(s), 23 falha(s)"
+  },
+  {
+    "id": "1749743928369",
+    "link": "https://www.instagram.com/p/DKUhUe-RXdN/",
+    "comentarios": [
+      "O melhor do mercado"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T15:58:48.369Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749745154098",
+    "link": "https://www.instagram.com/p/DKUhUe-RXdN/",
+    "comentarios": [
+      "arrasou"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T16:19:14.098Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749745345612",
+    "link": "https://www.instagram.com/p/DKUhUe-RXdN/",
+    "comentarios": [
+      "lindo"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T16:22:25.612Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749745560312",
+    "link": "https://www.instagram.com/p/DKUhUe-RXdN/",
+    "comentarios": [
+      "lindo"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T16:26:00.312Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749745614791",
+    "link": "https://www.instagram.com/p/DKUhUe-RXdN/",
+    "comentarios": [
+      "lindo"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T16:26:54.791Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749745664851",
+    "link": "https://www.instagram.com/p/DKpvILWSjQr/",
+    "comentarios": [
+      "lindo"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T16:27:44.851Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749745897024",
+    "link": "https://www.instagram.com/p/DKpvILWSjQr/",
+    "comentarios": [
+      "lindo"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T16:31:37.024Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749746112353",
+    "link": "https://www.instagram.com/p/DKpvILWSjQr/",
+    "comentarios": [
+      "lindo"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T16:35:12.353Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749746289384",
+    "link": "https://www.instagram.com/p/DKpvILWSjQr/",
+    "comentarios": [
+      "arrasaram"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T16:38:09.384Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749746419220",
+    "link": "https://www.instagram.com/p/DKpvILWSjQr/",
+    "comentarios": [
+      "lindos"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "concluido",
+    "data_criacao": "2025-06-12T16:40:19.220Z",
+    "data_processamento": null,
+    "realizados": 1,
+    "falhas": 0,
+    "mensagem": "1 sucesso(s), 0 falha(s)"
+  },
+  {
+    "id": "1749747352447",
+    "link": "https://www.instagram.com/p/DKpvILWSjQr/",
+    "comentarios": [
+      "lindo"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T16:55:52.447Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749747528529",
+    "link": "https://www.instagram.com/p/DKpvILWSjQr/",
+    "comentarios": [
+      "arrasou"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T16:58:48.529Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749747672737",
+    "link": "https://www.instagram.com/p/DKpvILWSjQr/",
+    "comentarios": [
+      "top"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T17:01:12.737Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749747844914",
+    "link": "https://www.instagram.com/p/DKpvILWSjQr/",
+    "comentarios": [
+      "arrasou"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T17:04:04.914Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749747984297",
+    "link": "https://www.instagram.com/p/DKpvILWSjQr/",
+    "comentarios": [
+      "arrasou"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T17:06:24.297Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749748568164",
+    "link": "https://www.instagram.com/p/DKpvILWSjQr/",
+    "comentarios": [
+      "lindo"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T17:16:08.164Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749765835956",
+    "link": "https://www.instagram.com/p/DKa1NO8pMOn/",
+    "comentarios": [
+      "lindo"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T22:03:55.956Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749766025417",
+    "link": "https://www.instagram.com/p/DKa1NO8pMOn/",
+    "comentarios": [
+      "lindo"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T22:07:05.417Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749766279302",
+    "link": "https://www.instagram.com/p/DKa1NO8pMOn/",
+    "comentarios": [
+      "lindo"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T22:11:19.302Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749766488162",
+    "link": "https://www.instagram.com/p/DKa1NO8pMOn/",
+    "comentarios": [
+      "lindo"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T22:14:48.163Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749766608352",
+    "link": "https://www.instagram.com/p/DKa1NO8pMOn/",
+    "comentarios": [
+      "lindo"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T22:16:48.352Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749766764171",
+    "link": "https://www.instagram.com/p/DKa1NO8pMOn/",
+    "comentarios": [
+      "dddd"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T22:19:24.171Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749766884014",
+    "link": "https://www.instagram.com/p/DKa1NO8pMOn/",
+    "comentarios": [
+      "dddd"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T22:21:24.014Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749767014021",
+    "link": "https://www.instagram.com/p/DKa1NO8pMOn/",
+    "comentarios": [
+      "sssss"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "falha",
+    "data_criacao": "2025-06-12T22:23:34.021Z",
+    "data_processamento": null,
+    "realizados": 0,
+    "falhas": 1,
+    "mensagem": "0 sucesso(s), 1 falha(s)"
+  },
+  {
+    "id": "1749767205365",
+    "link": "https://www.instagram.com/p/DKa1NO8pMOn/",
+    "comentarios": [
+      "ddddd"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "concluido",
+    "data_criacao": "2025-06-12T22:26:45.365Z",
+    "data_processamento": null,
+    "realizados": 1,
+    "falhas": 0,
+    "mensagem": "1 sucesso(s), 0 falha(s)"
+  },
+  {
+    "id": "1749767318652",
+    "link": "https://www.instagram.com/p/DKa1NO8pMOn/",
+    "comentarios": [
+      "Perfeito"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "concluido",
+    "data_criacao": "2025-06-12T22:28:38.652Z",
+    "data_processamento": null,
+    "realizados": 1,
+    "falhas": 0,
+    "mensagem": "1 sucesso(s), 0 falha(s)"
+  },
+  {
+    "id": "1749767435124",
+    "link": "https://www.instagram.com/p/DKa1NO8pMOn/",
+    "comentarios": [
+      "mundo! 🌹✨"
+    ],
+    "cliente": "jfsilvavip",
+    "email": "jfsilvavip@gmail.com",
+    "generoComentario": "masculino",
+    "status": "concluido",
+    "data_criacao": "2025-06-12T22:30:35.124Z",
+    "data_processamento": null,
+    "realizados": 1,
+    "falhas": 0,
+    "mensagem": "1 sucesso(s), 0 falha(s)"
+  }
+]
