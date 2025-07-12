@@ -1,0 +1,91 @@
+[
+  {
+    "domain": ".instagram.com",
+    "expiry": 1747803451,
+    "httpOnly": false,
+    "name": "wd",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1264x705"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1754974651,
+    "httpOnly": false,
+    "name": "ds_user_id",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "64192644900"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1778697548,
+    "httpOnly": true,
+    "name": "sessionid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "64192644900%3Aji5DpNxOtM3i8p%3A26%3AAYfltXNfp_B8CxlPo3rk3uwgFnS6Epvtl-zaUtSNLQ"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1781721496,
+    "httpOnly": false,
+    "name": "mid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "aCORmAALAAG9iw01UgBPv3I0XdT1"
+  },
+  {
+    "domain": ".instagram.com",
+    "httpOnly": true,
+    "name": "rur",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "\"NCG\\05464192644900\\0541778734652:01f75009e0ee6dca8aad012349c8e4e1c9c8355f73e34454c08f2aa10fd2a255a011da9a\""
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1778697497,
+    "httpOnly": false,
+    "name": "ig_nrcb",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1778697495,
+    "httpOnly": true,
+    "name": "ig_did",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "62AC4B8F-B9D7-401D-86C9-C87440D675D3"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1781721495,
+    "httpOnly": true,
+    "name": "datr",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "mJEjaHUiXgJXJjGXNnwKd1g7"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1781758651,
+    "httpOnly": false,
+    "name": "csrftoken",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "UZi6yEEzYGR50k52A9k3TK"
+  }
+]

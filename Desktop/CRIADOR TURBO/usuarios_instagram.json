@@ -1,0 +1,1122 @@
+[
+    {
+        "usuario": "marcelopereira_silvaa",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "ricardooliveira_souzaa",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "alexandresantos_pereira_",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "lucasferreira1987b",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "mrodrigues123y",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "julianaoliveirart",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "rodrigojunior_w",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "martinsvitor_a",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "joaoricardo_do",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "gabrielricardo4ri",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "luanarodriguesgoncalves",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "gabby_pereirat",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "fer_castronbe",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "gabrielamartinsrt",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "jaquelinesouzare",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "marianarodriguesh_",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "julianasantoslima63",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "miguelmartins__t",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "diego.santos_costa",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "rafael_rodriguest",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "daniel.carvalhoov",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "wandapereiracastro",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "ximenasantoslima",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "yasminoliveiraut",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "pedrohenriquelkm",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "miguel.gustavor",
+        "senha": "s96552654@MT",
+        "status": "Erro: Erro ao tentar login: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[name=\"username\"]\"}\n  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nStacktrace:\n\tGetHandleVerifier [0x00007FF678ABCF65+75717]\n\tGetHandleVerifier [0x00007FF678ABCFC0+75808]\n\t(No symbol) [0x00007FF678888F9A]\n\t(No symbol) [0x00007FF6788DF4C6]\n\t(No symbol) [0x00007FF6788DF77C]\n\t(No symbol) [0x00007FF678932577]\n\t(No symbol) [0x00007FF6789073BF]\n\t(No symbol) [0x00007FF67892F39C]\n\t(No symbol) [0x00007FF678907153]\n\t(No symbol) [0x00007FF6788D0421]\n\t(No symbol) [0x00007FF6788D11B3]\n\tGetHandleVerifier [0x00007FF678DBD74D+3223469]\n\tGetHandleVerifier [0x00007FF678DB7CF2+3200338]\n\tGetHandleVerifier [0x00007FF678DD5B23+3322755]\n\tGetHandleVerifier [0x00007FF678AD6A3A+180890]\n\tGetHandleVerifier [0x00007FF678ADE13F+211359]\n\tGetHandleVerifier [0x00007FF678AC52B4+109332]\n\tGetHandleVerifier [0x00007FF678AC5462+109762]\n\tGetHandleVerifier [0x00007FF678AABA79+4825]\n\tBaseThreadInitThunk [0x00007FFBA0D3259D+29]\n\tRtlUserThreadStart [0x00007FFBA20CAF38+40]\n"
+    },
+    {
+        "usuario": "adrianafogaca7",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "jackson.dantast",
+        "senha": "s96552654@MT",
+        "status": "Erro: Erro ao tentar login: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[name=\"username\"]\"}\n  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nStacktrace:\n\tGetHandleVerifier [0x00007FF678ABCF65+75717]\n\tGetHandleVerifier [0x00007FF678ABCFC0+75808]\n\t(No symbol) [0x00007FF678888F9A]\n\t(No symbol) [0x00007FF6788DF4C6]\n\t(No symbol) [0x00007FF6788DF77C]\n\t(No symbol) [0x00007FF678932577]\n\t(No symbol) [0x00007FF6789073BF]\n\t(No symbol) [0x00007FF67892F39C]\n\t(No symbol) [0x00007FF678907153]\n\t(No symbol) [0x00007FF6788D0421]\n\t(No symbol) [0x00007FF6788D11B3]\n\tGetHandleVerifier [0x00007FF678DBD74D+3223469]\n\tGetHandleVerifier [0x00007FF678DB7CF2+3200338]\n\tGetHandleVerifier [0x00007FF678DD5B23+3322755]\n\tGetHandleVerifier [0x00007FF678AD6A3A+180890]\n\tGetHandleVerifier [0x00007FF678ADE13F+211359]\n\tGetHandleVerifier [0x00007FF678AC52B4+109332]\n\tGetHandleVerifier [0x00007FF678AC5462+109762]\n\tGetHandleVerifier [0x00007FF678AABA79+4825]\n\tBaseThreadInitThunk [0x00007FFBA0D3259D+29]\n\tRtlUserThreadStart [0x00007FFBA20CAF38+40]\n"
+    },
+    {
+        "usuario": "heloisa.sandraaa",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "tiago.nunes47",
+        "senha": "A154j8kk@",
+        "status": "Conectado (Acesso Limitado)"
+    },
+    {
+        "usuario": "glauber.silvan",
+        "senha": "@A154j8kk@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "anderson.shenz",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "caio.lacost",
+        "senha": "s96552654@@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "feliphe.guittaa",
+        "senha": "s96552654@@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "homerodosremedios",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "marcelaalint",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "bernardo.souzaaa",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "lucasoliveiraprt",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "pedrocostmnb",
+        "senha": "s96552654@@@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "deboraferreiracosta2",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "rodriguesalmeida93",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "patriciamartinspereira3",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "nerivaldarochasantos",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "andrelivsnst",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "thiagolaurentpw",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "joaopedroalm13",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "marcelosantso92",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "eduperelimaob",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "ricardoazevmb",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "leonardorandm",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "wilfred17326",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "antoniopinto434",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "givaldopedrosabento",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "ryan.nunestt",
+        "senha": "s96552654@MT",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "bia_lima_5_",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "beatriz.ofc233",
+        "senha": "A154j8kk@MT",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "jackeline.portelaf",
+        "senha": "rtm9655141",
+        "status": "Conectado (Acesso Limitado)"
+    },
+    {
+        "usuario": "caroline.oliveiraf",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "antonellabeo",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "heloisa.elainec",
+        "senha": "A154j8kk@MT@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "suellen.botelhoh",
+        "senha": "A154j8kk@MT",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "madalena_dominato_",
+        "senha": "s96552654",
+        "status": "Conectado (Acesso Limitado)"
+    },
+    {
+        "usuario": "flavia.lopes7",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "marcela.ferreira91",
+        "senha": "A154j8kk@k",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "marleneteixeira711",
+        "senha": "s96552654",
+        "status": "Conectado (Acesso Limitado)"
+    },
+    {
+        "usuario": "terezajosefacaroline1",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "beatrizlimaoliveira14",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "carlasouzafernandeswy",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "gabrielasantoscardoso3",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "murilosferreir",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "robertocarlpw",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "rafaeloivsds",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "felipecarvalzbc",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "wellingtonsilvd",
+        "senha": "s96552654",
+        "status": "Conectado (Acesso Limitado)"
+    },
+    {
+        "usuario": "fernandoluizts",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "rogeriocarlms",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "hugonascimbr",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "edmilsondsmr",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "lucas.lorisb",
+        "senha": "s96552654@MT",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "caleberyangomes",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "joedson.dison",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "jesusrenatoassuncao",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "evertonbezerradeantunes",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "fernandorocha_ro",
+        "senha": "s96552654@@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "martinsmoacy",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "julianomacedosents",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "aureliovisconde",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "caiogustavosales",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "jaksonbritosaraiva",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "tonysalesgama",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "pietrocardosofelix",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "cardosomendes8",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "joaosilva_bn",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "jackson_kelsilva",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "antoniommarcos_",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "gilsoutobeck",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "marceloc_bn",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "lu4s.oliveira",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "rodriguesfelipeer",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "gaelnathan__",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "carlos.durvalt",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "angelafelixbento",
+        "senha": "A154j8kk@k",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "_pedro.fogacaaa",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "poliana.silvabt",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "jwisiwri",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "rudson.br",
+        "senha": "A154j8kk@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "luan.nathantt",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "juliano.dantass",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "lian.felippe",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "douglas.brunog",
+        "senha": "s96552654@MT",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "esterfranciscar",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "matheusassis762",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "thiagofreitas804",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "tiagorenan59",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "jenniffer.silvan",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "yago.britog",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "andreo_liveira_",
+        "senha": "s96552654",
+        "status": "Conectado (Acesso Limitado)"
+    },
+    {
+        "usuario": "helenaoliveiraalmeida1",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "miguelalmeidprn",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "andesilvap",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "zacharalimx",
+        "senha": "s96552654@",
+        "status": "Conectado (Acesso Limitado)"
+    },
+    {
+        "usuario": "estebancostx",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "robsondultra7",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "samuelsouzzy",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "agnertorrx",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "oscarlimaptr",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "benjamcostx",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "joaopedrosilvart",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "caioviniciussilva4",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "ricardoassuncao43",
+        "senha": "A154j8kk@MT",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "marcioalmeida1220",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "sh_aurora75",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "andre.pixotte",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "vanessacastronunes",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "tatianaribeiromendes6",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "rafaelaalvespereirart",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "danielcosta2_",
+        "senha": "s96552654@@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "carlos_santoss87",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "lucas_o_pp",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "andreluizcct",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "brenosamuelassis",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "SISTWIIi",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "kwoao9",
+        "senha": "A154j8kk@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "josefilipe411",
+        "senha": "A154j8kk@@M",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "sueij919",
+        "senha": "A154j8kk@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "f.abio.viniciusss",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "ricardoluisalves4",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "jorgevascobt",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "juniiorrochan",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "samuelcostalima5",
+        "senha": "s96552654",
+        "status": "Conectado (Acesso Limitado)"
+    },
+    {
+        "usuario": "eriko.ofc57",
+        "senha": "Alan1997",
+        "status": "Conectado (Acesso Limitado)"
+    },
+    {
+        "usuario": "henriquecalebe_",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "thiagorodrixb",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "victoralmetd",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "deniseolbb",
+        "senha": "s96552654",
+        "status": "Erro: Erro ao tentar login: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[name=\"username\"]\"}\n  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nStacktrace:\n\tGetHandleVerifier [0x00007FF678ABCF65+75717]\n\tGetHandleVerifier [0x00007FF678ABCFC0+75808]\n\t(No symbol) [0x00007FF678888F9A]\n\t(No symbol) [0x00007FF6788DF4C6]\n\t(No symbol) [0x00007FF6788DF77C]\n\t(No symbol) [0x00007FF678932577]\n\t(No symbol) [0x00007FF6789073BF]\n\t(No symbol) [0x00007FF67892F39C]\n\t(No symbol) [0x00007FF678907153]\n\t(No symbol) [0x00007FF6788D0421]\n\t(No symbol) [0x00007FF6788D11B3]\n\tGetHandleVerifier [0x00007FF678DBD74D+3223469]\n\tGetHandleVerifier [0x00007FF678DB7CF2+3200338]\n\tGetHandleVerifier [0x00007FF678DD5B23+3322755]\n\tGetHandleVerifier [0x00007FF678AD6A3A+180890]\n\tGetHandleVerifier [0x00007FF678ADE13F+211359]\n\tGetHandleVerifier [0x00007FF678AC52B4+109332]\n\tGetHandleVerifier [0x00007FF678AC5462+109762]\n\tGetHandleVerifier [0x00007FF678AABA79+4825]\n\tBaseThreadInitThunk [0x00007FFBA0D3259D+29]\n\tRtlUserThreadStart [0x00007FFBA20CAF38+40]\n"
+    },
+    {
+        "usuario": "_carlos.elias.s",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "pedrobritoo_1",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "lucasaltorresty",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "gustavopecopr",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "arleduard82",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "rafaelcosilvrp",
+        "senha": "s96552654",
+        "status": "Erro: Erro ao tentar login: Message: element click intercepted: Element <button class=\" _acan _acap _acas _acax _aj1- _ap30\" type=\"submit\" disabled=\"\">...</button> is not clickable at point (624, 258). Other element would receive the click: <div class=\"x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x1xmf6yo x1e56ztr x540dpk x1m39q7l x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1\">...</div>\n  (Session info: chrome=136.0.7103.114)\nStacktrace:\n\tGetHandleVerifier [0x00007FF678ABCF65+75717]\n\tGetHandleVerifier [0x00007FF678ABCFC0+75808]\n\t(No symbol) [0x00007FF678888F9A]\n\t(No symbol) [0x00007FF6788E7439]\n\t(No symbol) [0x00007FF6788E4DF2]\n\t(No symbol) [0x00007FF6788E1EA1]\n\t(No symbol) [0x00007FF6788E0DA1]\n\t(No symbol) [0x00007FF6788D2394]\n\t(No symbol) [0x00007FF67890737A]\n\t(No symbol) [0x00007FF6788D1C46]\n\t(No symbol) [0x00007FF678907590]\n\t(No symbol) [0x00007FF67892F39C]\n\t(No symbol) [0x00007FF678907153]\n\t(No symbol) [0x00007FF6788D0421]\n\t(No symbol) [0x00007FF6788D11B3]\n\tGetHandleVerifier [0x00007FF678DBD74D+3223469]\n\tGetHandleVerifier [0x00007FF678DB7CF2+3200338]\n\tGetHandleVerifier [0x00007FF678DD5B23+3322755]\n\tGetHandleVerifier [0x00007FF678AD6A3A+180890]\n\tGetHandleVerifier [0x00007FF678ADE13F+211359]\n\tGetHandleVerifier [0x00007FF678AC52B4+109332]\n\tGetHandleVerifier [0x00007FF678AC5462+109762]\n\tGetHandleVerifier [0x00007FF678AABA79+4825]\n\tBaseThreadInitThunk [0x00007FFBA0D3259D+29]\n\tRtlUserThreadStart [0x00007FFBA20CAF38+40]\n"
+    },
+    {
+        "usuario": "wagnersantosiq",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "lucas.souza07w",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "leosg_76",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "brunorocha_65",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "diegoro_87",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "thiago_csouza92",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "sam_almnunes",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "joaosilva01m",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "lucasalmeidasantos55",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "gusferp_55",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "matheuscl_91",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "arcos.oliveira85",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "daviodasilvlm",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "jorgedossantosmd",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "matheusribgn",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "gustavo_santos22b",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "limamarcos123r",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "rafaoliveira_88t",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "d.ferreirasilva24",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "thiagosantos91_",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "joaodasilvaan",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "leo.dasilva_santos",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "gabriel.oliveira91n",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "ricardo_cce",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "gabrielop_pt",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "a.santos.silvas",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "leonardocostasilvab",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "alveshugoferreirap",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "marcelobarbosa_6",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "matheus_castro51",
+        "senha": "s96552654",
+        "status": "Conectado (Acesso Limitado)"
+    },
+    {
+        "usuario": "carlosfernandes_35",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "luiz.santossilva8",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "rosangela.coutinhonn",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "ricardobreno945",
+        "senha": "s96552654",
+        "status": "Conectado (Acesso Limitado)"
+    },
+    {
+        "usuario": "sophiapereiracarneiro",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "luizafernandaalmeida_",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "sophiagabrielabarbosa1",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "andreiasilvanunes9",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "nataliaoliveirabarbosaar",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "viniciussm_23",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "luca_rossi89r",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "marco_bianchib",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "matheulimaptr",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "henriquegomestfg",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "francisclimbv",
+        "senha": "s96552654",
+        "status": "Erro: Erro ao tentar login: Message: element click intercepted: Element <button class=\" _acan _acap _acas _acax _aj1- _ap30\" type=\"submit\" disabled=\"\">...</button> is not clickable at point (624, 273). Other element would receive the click: <div class=\"x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x1xmf6yo x1e56ztr x540dpk x1m39q7l x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1\">...</div>\n  (Session info: chrome=136.0.7103.114)\nStacktrace:\n\tGetHandleVerifier [0x00007FF678ABCF65+75717]\n\tGetHandleVerifier [0x00007FF678ABCFC0+75808]\n\t(No symbol) [0x00007FF678888F9A]\n\t(No symbol) [0x00007FF6788E7439]\n\t(No symbol) [0x00007FF6788E4DF2]\n\t(No symbol) [0x00007FF6788E1EA1]\n\t(No symbol) [0x00007FF6788E0DA1]\n\t(No symbol) [0x00007FF6788D2394]\n\t(No symbol) [0x00007FF67890737A]\n\t(No symbol) [0x00007FF6788D1C46]\n\t(No symbol) [0x00007FF678907590]\n\t(No symbol) [0x00007FF67892F39C]\n\t(No symbol) [0x00007FF678907153]\n\t(No symbol) [0x00007FF6788D0421]\n\t(No symbol) [0x00007FF6788D11B3]\n\tGetHandleVerifier [0x00007FF678DBD74D+3223469]\n\tGetHandleVerifier [0x00007FF678DB7CF2+3200338]\n\tGetHandleVerifier [0x00007FF678DD5B23+3322755]\n\tGetHandleVerifier [0x00007FF678AD6A3A+180890]\n\tGetHandleVerifier [0x00007FF678ADE13F+211359]\n\tGetHandleVerifier [0x00007FF678AC52B4+109332]\n\tGetHandleVerifier [0x00007FF678AC5462+109762]\n\tGetHandleVerifier [0x00007FF678AABA79+4825]\n\tBaseThreadInitThunk [0x00007FFBA0D3259D+29]\n\tRtlUserThreadStart [0x00007FFBA20CAF38+40]\n"
+    },
+    {
+        "usuario": "nathansilvapw",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "paulogomespw",
+        "senha": "s96552654",
+        "status": "Erro: Erro ao tentar login: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[name=\"username\"]\"}\n  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nStacktrace:\n\tGetHandleVerifier [0x00007FF678ABCF65+75717]\n\tGetHandleVerifier [0x00007FF678ABCFC0+75808]\n\t(No symbol) [0x00007FF678888F9A]\n\t(No symbol) [0x00007FF6788DF4C6]\n\t(No symbol) [0x00007FF6788DF77C]\n\t(No symbol) [0x00007FF678932577]\n\t(No symbol) [0x00007FF6789073BF]\n\t(No symbol) [0x00007FF67892F39C]\n\t(No symbol) [0x00007FF678907153]\n\t(No symbol) [0x00007FF6788D0421]\n\t(No symbol) [0x00007FF6788D11B3]\n\tGetHandleVerifier [0x00007FF678DBD74D+3223469]\n\tGetHandleVerifier [0x00007FF678DB7CF2+3200338]\n\tGetHandleVerifier [0x00007FF678DD5B23+3322755]\n\tGetHandleVerifier [0x00007FF678AD6A3A+180890]\n\tGetHandleVerifier [0x00007FF678ADE13F+211359]\n\tGetHandleVerifier [0x00007FF678AC52B4+109332]\n\tGetHandleVerifier [0x00007FF678AC5462+109762]\n\tGetHandleVerifier [0x00007FF678AABA79+4825]\n\tBaseThreadInitThunk [0x00007FFBA0D3259D+29]\n\tRtlUserThreadStart [0x00007FFBA20CAF38+40]\n"
+    },
+    {
+        "usuario": "quentinfreit",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "giovanni_espp",
+        "senha": "s96552654",
+        "status": "Conectado (Acesso Limitado)"
+    },
+    {
+        "usuario": "matteo_roman0b",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "ale_ferrari23r",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "biancarodriguesbv",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "renataferreirannb",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "michelealves4pl",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "kaiquepinto663",
+        "senha": "s96552654@",
+        "status": "Conectado (Acesso Limitado)"
+    },
+    {
+        "usuario": "alexandrecamargv",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "eduardosousapinto1",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "luiz.dasilvart",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "danielemanoelfranco",
+        "senha": "s96552654@",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "lucasfernandobss",
+        "senha": "s96552654",
+        "status": "ATIVO"
+    },
+    {
+        "usuario": "danilo.guthemberg_",
+        "senha": "s96552654@",
+        "status": "Conectado (Acesso Limitado)"
+    },
+    {
+        "usuario": "bruno.viscondett",
+        "senha": "s96552654@",
+        "status": "Erro: Erro ao tentar login: Message: element click intercepted: Element <button class=\" _acan _acap _acas _acax _aj1- _ap30\" type=\"submit\" disabled=\"\">...</button> is not clickable at point (624, 273). Other element would receive the click: <div class=\"x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x1xmf6yo x1e56ztr x540dpk x1m39q7l x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1\">...</div>\n  (Session info: chrome=136.0.7103.114)\nStacktrace:\n\tGetHandleVerifier [0x00007FF678ABCF65+75717]\n\tGetHandleVerifier [0x00007FF678ABCFC0+75808]\n\t(No symbol) [0x00007FF678888F9A]\n\t(No symbol) [0x00007FF6788E7439]\n\t(No symbol) [0x00007FF6788E4DF2]\n\t(No symbol) [0x00007FF6788E1EA1]\n\t(No symbol) [0x00007FF6788E0DA1]\n\t(No symbol) [0x00007FF6788D2394]\n\t(No symbol) [0x00007FF67890737A]\n\t(No symbol) [0x00007FF6788D1C46]\n\t(No symbol) [0x00007FF678907590]\n\t(No symbol) [0x00007FF67892F39C]\n\t(No symbol) [0x00007FF678907153]\n\t(No symbol) [0x00007FF6788D0421]\n\t(No symbol) [0x00007FF6788D11B3]\n\tGetHandleVerifier [0x00007FF678DBD74D+3223469]\n\tGetHandleVerifier [0x00007FF678DB7CF2+3200338]\n\tGetHandleVerifier [0x00007FF678DD5B23+3322755]\n\tGetHandleVerifier [0x00007FF678AD6A3A+180890]\n\tGetHandleVerifier [0x00007FF678ADE13F+211359]\n\tGetHandleVerifier [0x00007FF678AC52B4+109332]\n\tGetHandleVerifier [0x00007FF678AC5462+109762]\n\tGetHandleVerifier [0x00007FF678AABA79+4825]\n\tBaseThreadInitThunk [0x00007FFBA0D3259D+29]\n\tRtlUserThreadStart [0x00007FFBA20CAF38+40]\n"
+    },
+    {
+        "usuario": "claudiocosta4746",
+        "senha": "s96552654@@",
+        "status": "ATIVO"
+    }
+]

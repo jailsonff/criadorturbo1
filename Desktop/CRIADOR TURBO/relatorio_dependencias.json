@@ -1,0 +1,26 @@
+{
+    "arquivos_python_essenciais": [
+        "verificador_curtida.py",
+        "automacao_worker_final.py",
+        "main.py",
+        "dolphin_anty_optimized.py",
+        "worker.py",
+        "gui.py",
+        "cookies_optimizer.py"
+    ],
+    "diretorios_essenciais": [
+        "sessions_otimizadas",
+        "dolphin_profiles",
+        "assets"
+    ],
+    "arquivos_configuracao": [
+        "contas.txt",
+        "contas_criadas.txt",
+        "instagram_bot_config_v2.3.ini",
+        "instagram_bot_config_v2.4.ini",
+        "limpeza_log.txt",
+        "limpeza_ultra_log.txt",
+        "relatorio_dependencias.json",
+        "usuarios_instagram.json"
+    ]
+}

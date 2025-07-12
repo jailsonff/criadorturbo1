@@ -1,0 +1,91 @@
+[
+  {
+    "domain": ".instagram.com",
+    "expiry": 1783555621,
+    "httpOnly": false,
+    "name": "csrftoken",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "YZP1hVxtSLvUTaZifaWGWIxzHhf2PU9O"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1780531554,
+    "httpOnly": true,
+    "name": "sessionid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "74852082606%3Apj8IjS7eOduxBV%3A29%3AAYdpP1vFTM__U1ryM7mX5IWaSkfyDgJnr-urd6aNZA"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1783555496,
+    "httpOnly": false,
+    "name": "mid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "aD-NqAALAAHrmo1K-PBpGEeTGwTt"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1756771621,
+    "httpOnly": false,
+    "name": "ds_user_id",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "74852082606"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1749600370,
+    "httpOnly": false,
+    "name": "wd",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1920x893"
+  },
+  {
+    "domain": ".instagram.com",
+    "httpOnly": true,
+    "name": "rur",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "\"RVA\\05474852082606\\0541780531621:01fe5ca5671a90a9fcb346efd0d872f6a16c32db7739be1e461cd8f4abef87e7d015d4b2\""
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1780531496,
+    "httpOnly": false,
+    "name": "ig_nrcb",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1780531554,
+    "httpOnly": true,
+    "name": "ig_did",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "49047924-D9E7-48CA-854A-A1B97A909F0C"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1783555495,
+    "httpOnly": true,
+    "name": "datr",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "p40_aHHq6v1trlBtnq1Yt9ao"
+  }
+]

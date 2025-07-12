@@ -1,0 +1,91 @@
+[
+  {
+    "domain": ".instagram.com",
+    "expiry": 1785708251,
+    "httpOnly": false,
+    "name": "csrftoken",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "zGwnUHqImVI4i8PM8Ly7gFg7GzBIsgWc"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1782684248,
+    "httpOnly": true,
+    "name": "sessionid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "75685569667%3AWwtmBlGmQhiE4M%3A8%3AAYfdw0V6Df6uh0FqQH-v8geYwvsS3KGsklkxWGeLWQ"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1785708179,
+    "httpOnly": false,
+    "name": "mid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "aGBmkwALAAEp1xAqJQoRN7SdmzQf"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1758924251,
+    "httpOnly": false,
+    "name": "ds_user_id",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "75685569667"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1751753051,
+    "httpOnly": false,
+    "name": "wd",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1920x893"
+  },
+  {
+    "domain": ".instagram.com",
+    "httpOnly": true,
+    "name": "rur",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "\"NHA\\05475685569667\\0541782684250:01fe78e87d0ff5d188cd1733dbe231640cbd79c083120cdb18c226c1ec200fa0897fb91e\""
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1782684179,
+    "httpOnly": false,
+    "name": "ig_nrcb",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1782684248,
+    "httpOnly": true,
+    "name": "ig_did",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "F27D5BA6-F3E6-4B7A-AE60-1139BC2EDB29"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1785708178,
+    "httpOnly": true,
+    "name": "datr",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "k2ZgaHK2w6tc3XaNtIhCrebN"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "domain": ".instagram.com",
+    "expiry": 1785034376,
+    "httpOnly": false,
+    "name": "csrftoken",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GVBQf790muATc7SRlE75ajuxNoiEkq4R"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1782010307,
+    "httpOnly": true,
+    "name": "sessionid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "75452966033%3AgT5cZwcIiCIqZA%3A26%3AAYca4HIOx5dazWQ8YowLXrNmHkKNrVVjspmHmknn5w"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1785034240,
+    "httpOnly": false,
+    "name": "mid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "aFYeAQALAAFO5uFxd6YozdsYVBoy"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1758250376,
+    "httpOnly": false,
+    "name": "ds_user_id",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "75452966033"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1751079123,
+    "httpOnly": false,
+    "name": "wd",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1920x893"
+  },
+  {
+    "domain": ".instagram.com",
+    "httpOnly": true,
+    "name": "rur",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "\"CLN\\05475452966033\\0541782010377:01fea7c632672cd600046bc6d616cf74e8756a62e8b5ce8a40d17477e87cbe5957359582\""
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1782010240,
+    "httpOnly": false,
+    "name": "ig_nrcb",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1782010307,
+    "httpOnly": true,
+    "name": "ig_did",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "37A4B62E-796A-4BDF-A5EB-2C01137C8F53"
+  },
+  {
+    "domain": ".instagram.com",
+    "expiry": 1785034239,
+    "httpOnly": true,
+    "name": "datr",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "AB5WaO8uxCazNrnT0c1xKQ-7"
+  }
+]

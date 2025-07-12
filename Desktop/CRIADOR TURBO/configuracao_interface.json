@@ -1,0 +1,17 @@
+{
+    "cores": {
+        "fundo": "#212121",
+        "controles": "#424242",
+        "botoes": "#616161",
+        "texto": "#f5f5f5"
+    },
+    "espacamentos": {
+        "vertical": 60,
+        "horizontal": 50,
+        "margens": 30
+    },
+    "tamanhos": {
+        "altura_campos": 60,
+        "tamanho_fonte": 20
+    }
+}
