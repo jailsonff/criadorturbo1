@@ -1,0 +1,13 @@
+project_id = "rlyskhufxvaierltaaln"
+
+[functions.mercadopago-reconcile]
+verify_jwt = false
+
+[functions.mercadopago-webhook]
+verify_jwt = false
+
+[functions.store-customer-auth]
+verify_jwt = false
+
+[functions.tiktok-resolve]
+verify_jwt = false
